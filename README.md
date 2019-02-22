@@ -1,2 +1,2 @@
-# GAN-Learnimg
+# GAN-Learning
 GAN
